@@ -56,7 +56,6 @@ The dataset used in this project is a sample of car listings scraped from Craigs
 
 - **Ridge Regression:** Good for handling multicollinearity and when many features are present.
 - **Lasso Regression:** Performs feature selection by shrinking less important feature coefficients to zero.
-- **Pipelines:** Ensure transformations and modeling are streamlined and reproducible.
 
 ---
 
